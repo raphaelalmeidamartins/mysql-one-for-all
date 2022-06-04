@@ -9,6 +9,6 @@ FROM
   SpotifyClone.users AS us
   INNER JOIN SpotifyClone.plays_history AS pl ON us.user_id = pl.user_id
 GROUP BY
-  us.user_name
+  usuario
 ORDER BY
-  us.user_name;
+  usuario;

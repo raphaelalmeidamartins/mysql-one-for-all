@@ -7,4 +7,4 @@ FROM
 WHERE
   art.artist_name = 'Walter Phoenix'
 ORDER BY
-  album_name;
+  album;

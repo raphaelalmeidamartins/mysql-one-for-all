@@ -8,6 +8,6 @@ GROUP BY
   s.song_name
 ORDER BY
   reproducoes DESC,
-  s.song_name
+  cancao
 LIMIT
   2;
