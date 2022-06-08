@@ -1,5 +1,0 @@
-ignore_files:
-  - tests/
-  - .editorconfig
-  - .eslintignore
-  - .eslintrc.json
